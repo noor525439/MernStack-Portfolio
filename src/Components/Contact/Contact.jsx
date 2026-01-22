@@ -4,7 +4,7 @@ import { Mail, Phone, MapPin, Send } from "lucide-react";
 
 const Contact = () => {
   return (
-    <div className="bg-[#050505] text-white py-24 px-6" id='contact'>
+    <div className="bg-[#050505] text-white py-24 px-6 md:px-36" id='contact'>
       <div className="max-w-6xl mx-auto">
         
         {/* Heading */}
