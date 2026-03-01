@@ -17,6 +17,7 @@ import project_5 from "../../assets/project_5.png";
 import project_6 from "../../assets/project_6.png";
 import project_8 from "../../assets/project_8.png";
 import project_9 from "../../assets/project-9.png";
+import project_12 from "../../assets/project-12.png";
 import ExpenseTrackor from "../../assets/ExpenseTrackor.png";
 import Gemini from "../../assets/Gemini.png";
 import website from "../../assets/website.png";
@@ -33,6 +34,7 @@ const projects = [
   { id: "09", src: project_3, title: "Tic Tac Toe", tag: "Logic Game", link: "https://tic-tac-toe110.netlify.app/" },
   { id: "10", src: project_4, title: "Weather Live", tag: "Weather API", link: "https://weather-app-react11.netlify.app/" },
   { id: "11", src: project_9, title: "Task Manager", tag: "Utility App", link: "https://todo-list535.netlify.app" },
+  { id: "12", src: project_12, title: "Medimate", tag: "Medical App", link: "https://medimate-six.vercel.app" },
 ];
 
 const MyWork = () => {
