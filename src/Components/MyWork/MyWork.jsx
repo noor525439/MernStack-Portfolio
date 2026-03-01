@@ -17,7 +17,7 @@ import project_5 from "../../assets/project_5.png";
 import project_6 from "../../assets/project_6.png";
 import project_8 from "../../assets/project_8.png";
 import project_9 from "../../assets/project-9.png";
-import project_12 from "../../assets/project-12.png";
+import project_12 from "../../assets/project_12.png";
 import ExpenseTrackor from "../../assets/ExpenseTrackor.png";
 import Gemini from "../../assets/Gemini.png";
 import website from "../../assets/website.png";
