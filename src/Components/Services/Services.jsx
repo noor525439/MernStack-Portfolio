@@ -40,7 +40,7 @@ const services = [
   },
 ];
 
-const Service = () => {
+const Services = () => {
   return (
     <section className="bg-[#030303] text-white py-24 px-6 md:px-36" id="services">
       <div className="max-w-7xl mx-auto">
@@ -108,4 +108,4 @@ const Service = () => {
   );
 };
 
-export default Service;
+export default Services;
